@@ -1,6 +1,8 @@
 Docker MultiarchBuilder - Docker image
 =============================
 
+DISCLAIMER: As-of 2021, this product does not have a free support team anymore. If you want this product to be maintained, please support on Patreon.
+
 The purpose of this project is to build a Multiarch Docker image in a x86/64 CI/CD context.
 
 Sample
